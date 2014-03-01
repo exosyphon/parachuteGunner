@@ -1,0 +1,26 @@
+.sprite { background-image: url('test.png'); background-color: transparent; background-repeat: no-repeat; }
+.logo { width: 274px; height: 142px; background-position: 0px -250px; }
+.mainmenu { width: 300px; height: 110px; background-position: 0px -136px; }
+.pausemenu { width: 192px; height: 96px; background-position: 0px -36px; }
+.gameover { width: 160px; height: 96px; background-position: -196px -36px; }
+.ready { width: 192px; height: 32px; background-position: 0px 0px; }
+.arrow { width: 64px; height: 64px; background-position: -278px -318px; }
+.pause { width: 64px; height: 64px; background-position: -278px -250px; }
+.flameButton { width: 48px; height: 48px; background-position: -304px -188px; }
+.flameButton2 { width: 48px; height: 48px; background-position: -304px -136px; }
+.cloud { width: 64px; height: 32px; background-position: -196px 0px; }
+.squirrelFly { width: 64px; height: 32px; background-position: -264px 0px; }
+.coinAnim1 { width: 32px; height: 32px; background-position: -332px 0px; }
+.coinAnim2 { width: 32px; height: 32px; background-position: -346px -360px; }
+.coinAnim3 { width: 32px; height: 32px; background-position: -346px -324px; }
+.explosion { width: 32px; height: 32px; background-position: -346px -288px; }
+.explosion2 { width: 32px; height: 32px; background-position: -346px -252px; }
+.explosion3 { width: 32px; height: 32px; background-position: -356px -216px; }
+.explosion4 { width: 32px; height: 32px; background-position: -356px -180px; }
+.flameWall { width: 32px; height: 32px; background-position: -356px -144px; }
+.grass { width: 32px; height: 32px; background-position: -360px -108px; }
+.hero1 { width: 32px; height: 32px; background-position: -360px -72px; }
+.hero2 { width: 32px; height: 32px; background-position: -360px -36px; }
+.herodead { width: 32px; height: 32px; background-position: -368px 0px; }
+.powerup { width: 32px; height: 32px; background-position: -382px -252px; }
+.bullet { width: 8px; height: 8px; background-position: -404px 0px; }
